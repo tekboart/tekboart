@@ -28,26 +28,26 @@ Here are some ideas to get you started:
   <div align="center">
       <a href="https://github.com/tekboart/">
           <img
-            src="github-gray.svg"
+            src="images/logos/github-gray.svg"
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/kyan-bhr/">
           <img
-            src="linkedin-gray.svg"
+            src="images/logos/linkedin-gray.svg"
             width="3%"
             style="border-radius: 5px !important; filter: invert(40%;"
           />
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://scholar.google.com/citations?user=r3xmjQUAAAAJ&hl=en">
           <img
-            src="googlescholar-gray.svg"
+            src="images/logos/googlescholar-gray.svg"
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://kaggle.com/">
           <img
-            src="kaggle-gray.svg"
+            src="images/logos/kaggle-gray.svg"
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
