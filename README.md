@@ -112,23 +112,9 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
   ![Terminal](https://img.shields.io/badge/Terminal-svg?style=flat&color=241F31&logo=gnometerminal&logoColor=white&labelColor=gray)
   
-  - IDE/Editors:<br />
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-svg?style=flat&color=007ACC&logo=visualstudiocode&logoColor=white&labelColor=gray)
-  ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
-  
   - Misc:<br />
   ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
+  ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
   ![Git](https://img.shields.io/badge/Git-svg?style=flat&color=F05032&logo=git&logoColor=white&labelColor=gray)
   ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
   ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
-  
-  
-  
-
-
-
-
-
-
-
-
