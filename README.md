@@ -28,29 +28,33 @@ Here are some ideas to get you started:
   <div align="center">
       <a href="https://github.com/tekboart/">
           <img
-            src="github.svg"
+            src="github-gray.svg"
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/kyan-bhr/">
           <img
-            src="linkedin.svg"
+            src="linkedin-gray.svg"
             width="3%"
             style="border-radius: 5px !important; filter: invert(40%;"
           />
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=r3xmjQUAAAAJ&hl=en" style='padding: 20px;'>
+      <a href="https://scholar.google.com/citations?user=r3xmjQUAAAAJ&hl=en">
           <img
-            src="googlescholar.svg"
+            src="googlescholar-gray.svg"
+            width="3%"
+          />
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://kaggle.com/">
+          <img
+            src="kaggle-gray.svg"
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
   </div>
 </div>
 
-<br />
 <hr height="10">
-<br />
 
 ### Hi there, 👋
 
@@ -62,7 +66,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   - "Graph Neural Networks (GNNs)" to process point-cloud data.
   - "Generative Adversial Networks (GANs)"
 - 👯 I’m looking to collaborate on: 
-  - Using CNNs on built environment/heritage images. 
+  - Using CNNs on built environment/heritage image data. 
   - Using GNNs on built environment/heritage pointcloud data.
 - 🧰 The technologies I use:  
   - ML & DeepLearning:<br />
@@ -70,12 +74,12 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
   ![Keras](https://img.shields.io/badge/Keras-svg?style=flat&color=D00000&logo=keras&logoColor=white&labelColor=gray)
   ![PyTorch](https://img.shields.io/badge/PyTorch-svg?style=flat&color=EE4C2C&logo=pytorch&logoColor=white&labelColor=gray)
-  ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=396D99&logo=numpy&logoColor=white&labelColor=gray)
+  ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=013243&logo=numpy&logoColor=white&labelColor=gray)
   ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray)
   ![Sklearn](https://img.shields.io/badge/scikit--learn-svg?style=flat&color=F7931E&logo=scikitlearn&logoColor=white&labelColor=gray)
   
   - Computer Vision:<br />
-  ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=FF1010&logo=opencv&logoColor=white&labelColor=gray)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=5C3EE8&logo=opencv&logoColor=white&labelColor=gray)
   ![PIL](https://img.shields.io/badge/Pillow-svg?style=flat&color=yellow&label=PIL&logoColor=white&labelColor=gray)
   
   - Graph ML:<br />
@@ -115,6 +119,9 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   - Misc:<br />
   ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
   ![Git](https://img.shields.io/badge/Git-svg?style=flat&color=F05032&logo=git&logoColor=white&labelColor=gray)
+  ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
+  ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
+  
   
   
 
