@@ -68,7 +68,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
 - 👯 I’m looking to collaborate on: 
   - Using CNNs on built environment/heritage image data. 
   - Using GNNs on built environment/heritage pointcloud data.
-- 🧰 The technologies I use:  
+- 🧰 The technologies I use:
   - ML & DeepLearning:<br />
   ![Python](https://badges.aleen42.com/src/python.svg)
   ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
@@ -77,16 +77,18 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=013243&logo=numpy&logoColor=white&labelColor=gray)
   ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray)
   ![Sklearn](https://img.shields.io/badge/scikit--learn-svg?style=flat&color=F7931E&logo=scikitlearn&logoColor=white&labelColor=gray)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-svg?style=flat&color=65BAEA&label=&logoColor=white&labelColor=gray)
+  ![seaborn](https://img.shields.io/badge/seaborn-svg?style=flat&color=79AAB6&label=&logoColor=white&labelColor=gray)
   
   - Computer Vision:<br />
   ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=5C3EE8&logo=opencv&logoColor=white&labelColor=gray)
   ![PIL](https://img.shields.io/badge/Pillow-svg?style=flat&color=yellow&label=PIL&logoColor=white&labelColor=gray)
   
   - Graph ML:<br />
-  ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow)
-  ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue)
+  ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray)
+  ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray)
   ![PyTorch](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
-  ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00)
+  ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=&logoColor=white&labelColor=gray)
 
   - BigData:<br />
   ![PySpark](https://img.shields.io/badge/PySpark-svg?style=flat&color=E25A1C&logo=apachespark&logoColor=white&labelColor=gray)
