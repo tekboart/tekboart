@@ -89,6 +89,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray)
   ![PyTorch](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
   ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=&logoColor=white&labelColor=gray)
+  ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
 
   - BigData:<br />
   ![PySpark](https://img.shields.io/badge/PySpark-svg?style=flat&color=E25A1C&logo=apachespark&logoColor=white&labelColor=gray)
