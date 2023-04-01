@@ -45,7 +45,7 @@ Here are some ideas to get you started:
             width="3%"
           />
       </a>&nbsp;&nbsp;&nbsp;
-      <a href="https://kaggle.com/">
+      <a href="https://www.kaggle.com/tekboart">
           <img
             src="images/logos/kaggle-gray.svg"
             width="3%"
