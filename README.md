@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very interested in applying AI in the built environment/heritage, and thus creating value from diff types of data (e.g., images, point clouds, etc.).
 
 - 🔭 I’m currently working on: 
-  - "detecting physical damage on cultural heritage buildings images using object detection and/or instance segmentation".
+  - "Detecting physical damage on cultural heritage buildings images using object detection and/or instance segmentation".
 - 🌱 I’m currently learning 
   - "Graph Neural Networks (GNNs)" to process point-cloud data.
   - "Generative Adversial Networks (GANs)"
@@ -96,19 +96,17 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Hadoop](https://img.shields.io/badge/Hadoop-svg?style=flat&color=66CCFF&logo=apachehadoop&logoColor=white&labelColor=gray)
   
   - DataBase:<br />
+  ![MYSQL](https://img.shields.io/badge/MYSQL-svg?style=flat&color=4479A1&logo=mysql&logoColor=white&labelColor=gray)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-svg?style=flat&color=4169E1&logo=postgresql&logoColor=white&labelColor=gray)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-svg?style=flat&color=47A248&logo=mongodb&logoColor=white&labelColor=gray)
   
   - Web Development:<br />
   ![JScript](https://badges.aleen42.com/src/javascript.svg)
-  ![CSS](https://img.shields.io/badge/CSS-svg?style=flat&color=1572B6&logo=CSS3&logoColor=white&labelColor=gray)
+  ![CSS3](https://img.shields.io/badge/CSS3-svg?style=flat&color=1572B6&logo=CSS3&logoColor=white&labelColor=gray)
   ![HTML5](https://img.shields.io/badge/HTML5-svg?style=flat&color=E34F26&logo=HTML5&logoColor=white&labelColor=gray)
   ![Django](https://img.shields.io/badge/django-svg?style=flat&color=092E20&logo=django&logoColor=white&labelColor=gray)
   
   - Deployment:<br />
   ![Docker](https://badges.aleen42.com/src/docker.svg)
-  ![NGINX](https://img.shields.io/badge/NGINX-svg?style=flat&color=009639&logo=nginx&logoColor=white&labelColor=gray)
-  ![CLI](https://badges.aleen42.com/src/cli.svg)
   
   - OS:<br />
   ![Linux](https://img.shields.io/badge/Linux-svg?style=flat&color=FCC624&logo=linux&logoColor=white&labelColor=gray)
