@@ -88,7 +88,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray)
   ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray)
   ![PyTorch](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
-  ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=&logoColor=white&labelColor=gray)
+  ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=TF-GNN&logoColor=white&labelColor=gray)
   ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
 
   - BigData:<br />
@@ -115,10 +115,23 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   
   - Misc:<br />
   ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
-  ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
   ![Git](https://img.shields.io/badge/Git-svg?style=flat&color=F05032&logo=git&logoColor=white&labelColor=gray)
+  ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
   ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
   ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
+  
+  - 2D/3D Softwares:<br />
+  ![Blender](https://img.shields.io/badge/Blender-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
+  ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
+  ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
+  ![Revit](https://img.shields.io/badge/Revit-svg?style=flat&color=2F6DB1&logo=autodesk&logoColor=white&labelColor=gray)
+  ![Rhinoceros](https://img.shields.io/badge/RhinoCeros-svg?style=flat&color=801010&logo=rhinoceros&logoColor=white&labelColor=gray)
+  ![SketchUp](https://img.shields.io/badge/SketchUp-svg?style=flat&color=005F9E&logo=SketchUp&logoColor=white&labelColor=gray)
+  ![PS](https://img.shields.io/badge/Photoshop-svg?style=flat&color=31A8FF&logo=AdobePhotoshop&logoColor=white&labelColor=gray)
+  ![Ai](https://img.shields.io/badge/Illustrator-svg?style=flat&color=FF9A00&logo=AdobeIllustrator&logoColor=white&labelColor=gray)
+  ![GIMP](https://img.shields.io/badge/GIMP-svg?style=flat&color=5C5543&logo=GIMP&logoColor=white&labelColor=gray)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-svg?style=flat&color=000000&logo=inkscape&logoColor=white&labelColor=gray)
+  
   
 <!-- Formula to create badges + text_logos:
 
