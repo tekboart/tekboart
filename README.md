@@ -19,7 +19,7 @@ Here are some ideas to get you started:
       <img
         width="850"
         style="border-radius: 20px;"
-        src="https://media.licdn.com/dms/image/D4E16AQHWIs22BtQmww/profile-displaybackgroundimage-shrink_350_1400/0/1678462390496?e=1685577600&v=beta&t=Ha1F6A5wLggklaazVpvSTQ_uCqm2oDULacVv6qCeAIY"
+        src="./images/final.jpg"
       >
     </a>
   </p>
