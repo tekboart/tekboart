@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <p>
     <a align="center" href="" target="_blank">
       <img
-        width="850"
+        width="%85"
         style="border-radius: 20px;"
         src="./images/final.jpg"
       >
