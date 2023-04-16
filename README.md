@@ -126,6 +126,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
   ![Revit](https://img.shields.io/badge/Revit-svg?style=flat&color=2F6DB1&logo=autodesk&logoColor=white&labelColor=gray)
   ![Rhinoceros](https://img.shields.io/badge/RhinoCeros-svg?style=flat&color=801010&logo=rhinoceros&logoColor=white&labelColor=gray)
+  ![grasshopper3d](https://img.shields.io/badge/grasshopper-svg?style=flat&color=548F3F&logo=&logoColor=white&labelColor=gray)
   ![SketchUp](https://img.shields.io/badge/SketchUp-svg?style=flat&color=005F9E&logo=SketchUp&logoColor=white&labelColor=gray)
   ![PS](https://img.shields.io/badge/Photoshop-svg?style=flat&color=31A8FF&logo=AdobePhotoshop&logoColor=white&labelColor=gray)
   ![Ai](https://img.shields.io/badge/Illustrator-svg?style=flat&color=FF9A00&logo=AdobeIllustrator&logoColor=white&labelColor=gray)
