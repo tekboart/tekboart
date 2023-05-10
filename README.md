@@ -87,7 +87,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   - Graph ML:<br />
   ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray)
   ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray)
-  ![PyTorch](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
+  ![PyTorchGeometric](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
   ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=TF-GNN&logoColor=white&labelColor=gray)
   ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
 
@@ -103,7 +103,6 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![JScript](https://badges.aleen42.com/src/javascript.svg)
   ![CSS3](https://img.shields.io/badge/CSS3-svg?style=flat&color=1572B6&logo=CSS3&logoColor=white&labelColor=gray)
   ![HTML5](https://img.shields.io/badge/HTML5-svg?style=flat&color=E34F26&logo=HTML5&logoColor=white&labelColor=gray)
-  ![Django](https://img.shields.io/badge/django-svg?style=flat&color=092E20&logo=django&logoColor=white&labelColor=gray)
   
   - Deployment:<br />
   ![Docker](https://badges.aleen42.com/src/docker.svg)
@@ -121,7 +120,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
   
   - 2D/3D Softwares:<br />
-  ![Blender](https://img.shields.io/badge/Blender-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
+  ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
   ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
   ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
   ![Revit](https://img.shields.io/badge/Revit-svg?style=flat&color=2F6DB1&logo=autodesk&logoColor=white&labelColor=gray)
