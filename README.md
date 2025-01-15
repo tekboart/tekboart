@@ -110,7 +110,6 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   - OS:<br />
   ![Linux](https://img.shields.io/badge/Linux-svg?style=flat&color=FCC624&logo=linux&logoColor=white&labelColor=gray)
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
-  ![Terminal](https://img.shields.io/badge/Terminal-svg?style=flat&color=241F31&logo=gnometerminal&logoColor=white&labelColor=gray)
   
   - Misc:<br />
   ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
