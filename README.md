@@ -19,7 +19,7 @@ Here are some ideas to get you started:
       <img
         width="%85"
         style="border-radius: 20px;"
-        src="./images/final.jpg"
+        src="./images/linkedin_banner 4.jpg"
       >
     </a>
   </p>
