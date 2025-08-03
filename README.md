@@ -58,7 +58,10 @@ Here are some ideas to get you started:
 
 ### Hi there, 👋
 
+<!-- THe architect version
 I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very interested in applying AI in the built environment/heritage, and thus creating value from diff types of data (e.g., images, point clouds, etc.).
+-->
+I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the novel applications of AI in the AEC sector. As someone who daily drives free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I am a huge fan of open-source community and hope to become competend enough one day to give back by contributing.
 
 - 🔭 I’m currently working on: 
   - "Detecting physical damage on cultural heritage buildings images using object detection and/or instance segmentation".
