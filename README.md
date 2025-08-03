@@ -63,14 +63,19 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
 -->
 I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the novel applications of AI in the AEC sector. As someone who daily drives free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I am a huge fan of open-source community and hope to become competend enough one day to give back by contributing.
 
+<!-- Irrelevant and hard to update everyday
 - 🔭 I’m currently working on: 
-  - "Detecting physical damage on cultural heritage buildings images using object detection and/or instance segmentation".
+  - ???
 - 🌱 I’m currently learning 
-  - "Graph Neural Networks (GNNs)" to process point-cloud data.
-  - "Generative Adversial Networks (GANs)"
+  - ???
 - 👯 I’m looking to collaborate on: 
-  - Using CNNs on built environment/heritage image data. 
-  - Using GNNs on built environment/heritage pointcloud data.
+  - ???
+-->
+- The AI fields I'm interested in (in order of competence):
+  - 👀 Computer Vision
+  - ❄️ Graph ML
+  - 🗣️ Natural Language Processing
+  - 🐘 Big Data
 - 🧰 The technologies I use:
   - ML & DeepLearning:<br />
   ![Python](https://badges.aleen42.com/src/python.svg)
@@ -111,23 +116,20 @@ I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the nov
   
   - Deployment:<br />
   ![Docker](https://badges.aleen42.com/src/docker.svg)
-  
-  - OS:<br />
-  ![Linux](https://img.shields.io/badge/Linux-svg?style=flat&color=FCC624&logo=linux&logoColor=white&labelColor=gray)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
-  
+
   - Misc:<br />
   ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
-  ![Git](https://img.shields.io/badge/Git-svg?style=flat&color=F05032&logo=git&logoColor=white&labelColor=gray)
   ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
   ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
-  ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
+  <!-- Irrelevant
+  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
+  ![KDE](https://img.shields.io/badge/KDE-svg?style=flat&color=1D99F3&logo=kde&logoColor=white&labelColor=gray)
+  -->
 
   - 2D/3D Softwares:<br />
   ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
   ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
   ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
-  ![grasshopper3d](https://img.shields.io/badge/grasshopper-svg?style=flat&color=548F3F&logo=&logoColor=white&labelColor=gray)
   
 <!-- The full Arch stack (might be misleading)
   - 2D/3D Softwares:<br />
