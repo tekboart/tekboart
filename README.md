@@ -117,7 +117,14 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
   ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
   ![Markdown](https://img.shields.io/badge/Markdown-svg?style=flat&color=000000&logo=markdown&logoColor=white&labelColor=gray)
+
+- 2D/3D Softwares:<br />
+  ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
+  ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
+  ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
+  ![grasshopper3d](https://img.shields.io/badge/grasshopper-svg?style=flat&color=548F3F&logo=&logoColor=white&labelColor=gray)
   
+<!-- The full Arch stack (might be misleading)
   - 2D/3D Softwares:<br />
   ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
   ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
@@ -130,7 +137,7 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Ai](https://img.shields.io/badge/Illustrator-svg?style=flat&color=FF9A00&logo=AdobeIllustrator&logoColor=white&labelColor=gray)
   ![GIMP](https://img.shields.io/badge/GIMP-svg?style=flat&color=5C5543&logo=GIMP&logoColor=white&labelColor=gray)
   ![Inkscape](https://img.shields.io/badge/Inkscape-svg?style=flat&color=000000&logo=inkscape&logoColor=white&labelColor=gray)
-  
+-->  
   
 <!-- Formula to create badges + text_logos:
 
