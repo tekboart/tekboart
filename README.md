@@ -76,11 +76,11 @@ I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very
   ![Keras](https://img.shields.io/badge/Keras-svg?style=flat&color=D00000&logo=keras&logoColor=white&labelColor=gray)
   ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=013243&logo=numpy&logoColor=white&labelColor=gray)
   ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray)
-<!-- Unnecessary items
+  <!-- Unnecessary items
   ![Sklearn](https://img.shields.io/badge/scikit--learn-svg?style=flat&color=F7931E&logo=scikitlearn&logoColor=white&labelColor=gray)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-svg?style=flat&color=65BAEA&label=&logoColor=white&labelColor=gray)
   ![seaborn](https://img.shields.io/badge/seaborn-svg?style=flat&color=79AAB6&label=&logoColor=white&labelColor=gray)
--->
+  -->
   
   - Computer Vision:<br />
   ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=5C3EE8&logo=opencv&logoColor=white&labelColor=gray)
