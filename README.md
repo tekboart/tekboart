@@ -58,84 +58,38 @@ Here are some ideas to get you started:
 
 ### Hi there, 👋
 
-<!-- THe architect version
-I'm an architect 🏗️ and ML/Computer Vision engineer 🧑‍💻 who is very interested in applying AI in the built environment/heritage, and thus creating value from diff types of data (e.g., images, point clouds, etc.).
--->
 I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the novel applications of AI in the AEC sector. As someone who daily drives free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I am a huge fan of open-source community and hope to become competend enough one day to give back by contributing.
 
-<!-- Irrelevant and hard to update everyday
-- 🔭 I’m currently working on: 
-  - ???
-- 🌱 I’m currently learning 
-  - ???
-- 👯 I’m looking to collaborate on: 
-  - ???
--->
-- The AI fields I'm interested in (in order of competence):
+<hr>
+
+## 🎯 My Favorite Fields/Topics (in order of competence)
   - 👀 Computer Vision
   - ❄️ Graph ML
   - 🗣️ Natural Language Processing
   - 🐘 Big Data
-- 🧰 The technologies I use:
-  - ML & DeepLearning:<br />
-  ![Python](https://badges.aleen42.com/src/python.svg)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-svg?style=flat&color=EE4C2C&logo=pytorch&logoColor=white&labelColor=gray)
-  ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
-  ![Keras](https://img.shields.io/badge/Keras-svg?style=flat&color=D00000&logo=keras&logoColor=white&labelColor=gray)
-  ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=013243&logo=numpy&logoColor=white&labelColor=gray)
-  ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray)
-  <!-- Unnecessary items
+
+<hr>
+
+<!-- <details> <summary>CRATE A TOGGLE</summary> </details> -->
+## 🧰 My Favorite Tools
+  
+| Category                        | Tools |
+|---------------------------------|-------|
+| **ML & DeepLearning**           | ![Python](https://badges.aleen42.com/src/python.svg) ![PyTorch](https://img.shields.io/badge/PyTorch-svg?style=flat&color=EE4C2C&logo=pytorch&logoColor=white&labelColor=gray) ![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg) ![Keras](https://img.shields.io/badge/Keras-svg?style=flat&color=D00000&logo=keras&logoColor=white&labelColor=gray) ![NumPy](https://img.shields.io/badge/NumPy-svg?style=flat&color=013243&logo=numpy&logoColor=white&labelColor=gray) ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray) ![Ray](https://img.shields.io/badge/Ray-svg?style=flat&color=028CF0&logo=ray&logoColor=white&labelColor=gray) |
+| **Computer Vision**             | ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=5C3EE8&logo=opencv&logoColor=white&labelColor=gray) ![PIL](https://img.shields.io/badge/Pillow-svg?style=flat&color=yellow&label=PIL&logoColor=white&labelColor=gray) |
+| **Graph ML**                    | ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray) ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray) ![PyTorchGeometric](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray) ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=TF-GNN&logoColor=white&labelColor=gray) ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray) |
+| **NLP**                         | ![LangChain](https://img.shields.io/badge/Lang_Chain-svg?style=flat&color=1C3C3C&logo=langchain&logoColor=white&labelColor=gray) ![Ollama](https://img.shields.io/badge/Ollama-svg?style=flat&color=000000&logo=ollama&logoColor=white&labelColor=gray) |
+| **BigData**                     | ![PySpark](https://img.shields.io/badge/PySpark-svg?style=flat&color=E25A1C&logo=apachespark&logoColor=white&labelColor=gray) ![Hadoop](https://img.shields.io/badge/Hadoop-svg?style=flat&color=66CCFF&logo=apachehadoop&logoColor=white&labelColor=gray) |
+| **Database**                    | ![MYSQL](https://img.shields.io/badge/MYSQL-svg?style=flat&color=4479A1&logo=mysql&logoColor=white&labelColor=gray) ![Postgresql](https://img.shields.io/badge/PostgreSQL-svg?style=flat&color=4169E1&logo=postgresql&logoColor=white&labelColor=gray) |
+| **Web Development**             | ![JScript](https://badges.aleen42.com/src/javascript.svg) ![CSS3](https://img.shields.io/badge/CSS3-svg?style=flat&color=1572B6&logo=CSS&logoColor=white&labelColor=gray) ![HTML5](https://img.shields.io/badge/HTML5-svg?style=flat&color=E34F26&logo=HTML5&logoColor=white&labelColor=gray) ![Django](https://img.shields.io/badge/Django-svg?style=flat&color=092E20&logo=django&logoColor=white&labelColor=gray) ![Flask](https://img.shields.io/badge/Flask-svg?style=flat&color=3BABC3&logo=flask&logoColor=white&labelColor=gray) ![Fast_API](https://img.shields.io/badge/Fast_API-svg?style=flat&color=009688&logo=fastapi&logoColor=white&labelColor=gray) |
+| **Deployment**                  | ![Docker](https://badges.aleen42.com/src/docker.svg) |
+| **Misc**                        | ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray) ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray) ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray) |
+| **2D/3D Softwares**             | ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray) ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray) ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray) |
+  
+<!-- Irrelevant (for now)
   ![Sklearn](https://img.shields.io/badge/scikit--learn-svg?style=flat&color=F7931E&logo=scikitlearn&logoColor=white&labelColor=gray)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-svg?style=flat&color=65BAEA&label=&logoColor=white&labelColor=gray)
   ![seaborn](https://img.shields.io/badge/seaborn-svg?style=flat&color=79AAB6&label=&logoColor=white&labelColor=gray)
-  -->
-  
-  - Computer Vision:<br />
-  ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=5C3EE8&logo=opencv&logoColor=white&labelColor=gray)
-  ![PIL](https://img.shields.io/badge/Pillow-svg?style=flat&color=yellow&label=PIL&logoColor=white&labelColor=gray)
-  
-  - Graph ML:<br />
-  ![igraph](https://img.shields.io/badge/igraph-svg?style=flat&color=yellow&label=&logoColor=white&labelColor=gray)
-  ![NetworkX](https://img.shields.io/badge/NetworkX-svg?style=flat&color=blue&label=&logoColor=white&labelColor=gray)
-  ![PyTorchGeometric](https://img.shields.io/badge/PyTorch_Geometric-svg?style=flat&color=3C2179&logo=pyg&logoColor=white&labelColor=gray)
-  ![TensorFlow GNN](https://img.shields.io/badge/TensorFlow_GNN-svg?style=flat&color=FF6F00&label=TF-GNN&logoColor=white&labelColor=gray)
-  ![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
-
-  - BigData:<br />
-  ![PySpark](https://img.shields.io/badge/PySpark-svg?style=flat&color=E25A1C&logo=apachespark&logoColor=white&labelColor=gray)
-  ![Hadoop](https://img.shields.io/badge/Hadoop-svg?style=flat&color=66CCFF&logo=apachehadoop&logoColor=white&labelColor=gray)
-  
-  - DataBase:<br />
-  ![MYSQL](https://img.shields.io/badge/MYSQL-svg?style=flat&color=4479A1&logo=mysql&logoColor=white&labelColor=gray)
-  ![Postgresql](https://img.shields.io/badge/PostgreSQL-svg?style=flat&color=4169E1&logo=postgresql&logoColor=white&labelColor=gray)
-  
-  - Web Development:<br />
-  ![JScript](https://badges.aleen42.com/src/javascript.svg)
-  ![CSS3](https://img.shields.io/badge/CSS3-svg?style=flat&color=1572B6&logo=CSS3&logoColor=white&labelColor=gray)
-  ![HTML5](https://img.shields.io/badge/HTML5-svg?style=flat&color=E34F26&logo=HTML5&logoColor=white&labelColor=gray)
-  
-  - Deployment:<br />
-  ![Docker](https://badges.aleen42.com/src/docker.svg)
-
-  - Misc:<br />
-  ![Bash Script](https://img.shields.io/badge/Bash_Script-svg?style=flat&color=4EAA25&logo=gnubash&logoColor=white&labelColor=gray)
-  ![Vim](https://img.shields.io/badge/Vim-svg?style=flat&color=019733&logo=vim&logoColor=white&labelColor=gray)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-svg?style=flat&color=008080&logo=latex&logoColor=white&labelColor=gray)
-  <!-- Irrelevant
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
-  ![KDE](https://img.shields.io/badge/KDE-svg?style=flat&color=1D99F3&logo=kde&logoColor=white&labelColor=gray)
-  -->
-
-  - 2D/3D Softwares:<br />
-  ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
-  ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
-  ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
-  
-<!-- The full Arch stack (might be misleading)
-  - 2D/3D Softwares:<br />
-  ![Blender](https://img.shields.io/badge/Blender_(+_Geometry_Nodes)-svg?style=flat&color=F5792A&logo=blender&logoColor=white&labelColor=gray)
-  ![3DsMax](https://img.shields.io/badge/3DsMax-svg?style=flat&color=099999&logo=autodesk&logoColor=white&labelColor=gray)
-  ![AutoCad](https://img.shields.io/badge/AutoCad-svg?style=flat&color=B52021&logo=autodesk&logoColor=white&labelColor=gray)
   ![Revit](https://img.shields.io/badge/Revit-svg?style=flat&color=2F6DB1&logo=autodesk&logoColor=white&labelColor=gray)
   ![Rhinoceros](https://img.shields.io/badge/RhinoCeros-svg?style=flat&color=801010&logo=rhinoceros&logoColor=white&labelColor=gray)
   ![grasshopper3d](https://img.shields.io/badge/grasshopper-svg?style=flat&color=548F3F&logo=&logoColor=white&labelColor=gray)
@@ -144,8 +98,10 @@ I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the nov
   ![Ai](https://img.shields.io/badge/Illustrator-svg?style=flat&color=FF9A00&logo=AdobeIllustrator&logoColor=white&labelColor=gray)
   ![GIMP](https://img.shields.io/badge/GIMP-svg?style=flat&color=5C5543&logo=GIMP&logoColor=white&labelColor=gray)
   ![Inkscape](https://img.shields.io/badge/Inkscape-svg?style=flat&color=000000&logo=inkscape&logoColor=white&labelColor=gray)
+  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-svg?style=flat&color=1793D1&logo=archlinux&logoColor=white&labelColor=gray)
+  ![KDE](https://img.shields.io/badge/KDE-svg?style=flat&color=1D99F3&logo=kde&logoColor=white&labelColor=gray)
 -->  
-  
+
 <!-- Formula to create badges + text_logos:
 
 ![Alt Text](https://img.shields.io/badge/<text_logo>-<label>-<label_background_color>.svg)
@@ -156,12 +112,25 @@ Double_Underscores __	→	_ Underscore
 Underscore _   	        →	  Space
 
 -->
-<!-- ![Python](https://img.shields.io/badge/Python-%3D%3D_3.9.10-396D99.svg) -->
-
-
 <!-- Formula to create badges + logos:
 
 ![Alt Text](https://img.shields.io/badge/<label>-svg?style=<badge_style>&color=<label_color>&logo=<logo_name_lowercase>&label=<a_text_instead_logo>&logoColor=<logo_color>&labelColor=<logo_background_color>&logoWidth=<horizontal_space_for_logo>)
 
 -->
-<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-svg?style=flat&color=FF1010&logo=opencv&logoColor=white&labelColor=gray) -->
+
+<!-- Hide Stats for now (As 99% of my commits are private repos
+<hr>
+
+<div align="center"> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tekboart&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    alt="My Github stats  (Only Public Repos)"
+    height="300"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekboart&hide=Jupyter+Notebook&theme=transparent&layout=donut&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    alt="My Language stats (Only Public Repos)"
+    height="300"
+  />
+</div>
+-->
