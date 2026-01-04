@@ -65,6 +65,7 @@ I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the nov
 ## 🎯 My Favorite Fields/Topics (in order of competence)
   - 👀 Computer Vision
   - ❄️ Graph ML
+  - 🤖 Reinforcement Learning
   - 🗣️ Natural Language Processing
   - 🐘 Big Data
 
