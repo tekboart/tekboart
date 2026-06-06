@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### Hi there, 👋
 
-I'm an ML/Computer Vision engineer 🧑‍💻 who is very interested in the novel applications of AI in the AEC sector. As someone who daily drives free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I am a huge fan of open-source community and hope to become competend enough one day to give back by contributing.
+I'm an ML/Computer Vision engineer and mostly reserach on the the applications of AI in visual data (e.g., images, 3D objects). In addition, having been daily driving free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I aspire to learn things to contribute back to the open-source community.
 
 <hr>
 
