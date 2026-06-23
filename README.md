@@ -73,7 +73,7 @@ I'm an ML/Computer Vision engineer and mostly reserach on the the applications o
 <hr>
 
 <!-- <details> <summary>CRATE A TOGGLE</summary> </details> -->
-## 🧰 My Favorite Tools
+## 🧰 Toolbox
   
 | Category                        | Tools |
 |---------------------------------|-------|
