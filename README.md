@@ -58,17 +58,20 @@ Here are some ideas to get you started:
 
 ### Hi there, 👋
 
-I'm an ML/Computer Vision engineer and mostly reserach on the the applications of AI in visual data (e.g., images, 3D objects). In addition, having been daily driving free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I aspire to learn things to contribute back to the open-source community.
+I'm a 2D/3D Computer Vision (CV) engineer who reseraches on the the applications of CV in Built World. Recently, I have devoloped interest in Robot Learning, epecially mixing it with my CV and Graph ML background, to tackle Robotics-related construction site challenges like SLAM, Localization, 3D Scene Graphs (3DSGs) understanding.
+
+Having worked with various data modalities, such as images, videos, pointclouds, graphs, texts and sensor data, I employ Multimodal AI as the natural way to fuse different data types to tackle Built Environment's complex challenges.
+
+In addition, having been daily driving free software (e.g., Linux, Anki, Drawio, pdftk, etc.), I aspire to learn things to contribute back to the open-source community.
 
 <hr>
 
-## 🎯 My Favorite Fields/Topics (with no specific order)
-  - 👀 Computer Vision
-  - ❄️ Graph ML
-  - 🤖 Reinforcement Learning (RL)
-  - 🥸 Behavioral Cloning & Imitation Learning
-  - 🗣️ Natural Language Processing
-  - 🐘 Big Data
+## 🎯 Research Interests (in order of competency)
+  1. 👀 Computer Vision
+  1. ❄️ Graph ML
+  1. 🤖 Robot Learning
+  1. 🥸 Behavioral Cloning & Imitation Learning
+  1. 🐘 Distributed Data Processing (Big Data)
 
 <hr>
 
